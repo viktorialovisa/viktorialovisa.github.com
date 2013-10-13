@@ -1,6 +1,9 @@
 body {
   background-color: purple;
 }
-body {
-  text-align: center;
-}
+<style type="text/css">
+A:link {text-decoration: underline; color: red; }
+A:visited {text-decoration: none}
+A:active {text-decoration: none}
+A:hover {text-decoration: none}
+</style>
