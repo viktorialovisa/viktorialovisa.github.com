@@ -13,3 +13,7 @@ A:active {background: #FFCC00; text-decoration: none}
 A:hover {background: #FFCC00; font-weight:bold; color: red;}
 </style>
 }
+p.pic {
+      width: 48px;
+    margin: 0 auto;
+}
