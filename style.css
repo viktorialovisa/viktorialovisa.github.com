@@ -29,7 +29,14 @@ body h1 {
   height: 180px;
 }
 
+div {
+  height: 50px;
+  width: 120px;
+  border-color: #330099;
+  background-color: #660099;
+}
+
 body {
   background-color: #00BFFF;
-}
+
 
