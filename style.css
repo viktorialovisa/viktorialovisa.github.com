@@ -35,6 +35,8 @@ body h1 {
   border-color: #330099;
   background-color: #660099;
   border-radius: 5px;
+  margin: auto;
+  text-align: center;
 }
 
 body {
