@@ -39,6 +39,10 @@ body h1 {
   text-align: center;
 }
 
+a {
+  color: #FFCCCC;
+}
+
 body {
   background-color: #00BFFF;
 
