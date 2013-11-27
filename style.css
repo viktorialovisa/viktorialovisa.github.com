@@ -59,6 +59,10 @@ a {
   color: #FFCCCC;
 }
 
+.heading {
+  float: right;
+}
+
 body {
   background-color: #00BFFF;
   
