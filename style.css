@@ -52,9 +52,13 @@ body h1 {
   position: relative; top: -400px;
 }
 
-#ul {
-  position: relative; top: -400px;
-  text-align: left;
+.more {
+  width: 100%;
+        text-align: center;        
+        margin: 0;
+        padding: 0;
+}
+
 
 .button {
   float: left;
@@ -74,6 +78,7 @@ a {
 
 body {
   background-color: #00BFFF;
+}
   
 
 
