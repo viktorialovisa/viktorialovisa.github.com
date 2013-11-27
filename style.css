@@ -52,6 +52,10 @@ body h1 {
   position: relative; top: -400px;
 }
 
+#ul {
+  position: relative; top: -400px;
+  text-align: left;
+
 .button {
   float: left;
 }
@@ -62,6 +66,10 @@ a {
 
 .heading {
   float: right;
+}
+
+.ul {
+  float: left;
 }
 
 body {
